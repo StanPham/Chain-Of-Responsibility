@@ -26,7 +26,7 @@
 
 ### Chain of Responsibility UML
 ![UMLDiagram](https://user-images.githubusercontent.com/128852758/230758132-45d7331e-1b56-4992-9132-0dfed070b1d5.png)
-
+* Request is either being handled or passed along to the next handler
 <br />
 
 ### Movie UML
